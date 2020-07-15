@@ -39,6 +39,8 @@ function renderBot(targetPosition){
 
 }
 
+
+
 function move(direction){
   let x = currentPosition.x;
   let y = currentPosition.y;
